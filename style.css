@@ -1,0 +1,9 @@
+html{
+    height: max-content;
+    width: max-content;
+    background-color: antiquewhite;
+}
+h1{
+    font-family: 'Times New', monospace;
+    font-size: 3rem;
+}
